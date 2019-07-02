@@ -30,7 +30,6 @@ public class ConsecutiveNumbersTest {
         boolean expected=true;
         boolean actual=number.checkConsecutive("54,53,52,51,50,49,48");
         assertEquals(expected,actual);
-
     }
 
 }
