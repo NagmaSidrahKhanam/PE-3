@@ -2,6 +2,7 @@ package com.stackroute.junitwork;
 
 public class Countries {
     public String[] removeVowels(String []input){
+        //remove vowels from countries
         String result[]=new String[input.length];
         int index=0;
         for(String element:input){

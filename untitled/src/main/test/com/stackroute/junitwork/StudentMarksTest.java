@@ -25,8 +25,6 @@ public class StudentMarksTest {
         boolean actual = studentMarks.checkGrades();
 
         assertEquals(expected, actual);
-
-
     }
 
     @Test

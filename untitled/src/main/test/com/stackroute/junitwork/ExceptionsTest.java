@@ -18,20 +18,5 @@ public class ExceptionsTest {
 
     }
 
-//    @Test
-//    public void checkGrades() {
-////        arrange
-//        obj = new Exceptions(1, new int[]{20,70, 80, 30, 60});
-//        boolean expected = true;
-//        boolean actual = ;
-//
-//        assertEquals(expected, actual);
-//
-//
-//    }
-
-
-
-
 
 }
